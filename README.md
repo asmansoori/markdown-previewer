@@ -45,8 +45,10 @@ src/
 ├── App.js          # Imports and renders Converter
 └── index.js        # React DOM rendering
 📸 Preview
-Editor (Left)	Preview (Right)
-# Hello	<h1>Hello</h1>
+| Editor (Left) | Preview (Right) |
+| ------------- | --------------- |
+| `# Hello`     | <h1>Hello</h1>  |
+
 
 Feel free to fork, modify, and improve this project!
 
