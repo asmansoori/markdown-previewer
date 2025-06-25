@@ -53,14 +53,5 @@ Feel free to fork, modify, and improve this project!
 🧑‍💻 Author
 Created with ❤️ by Ahmad Salar
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to:
-- Generate a GitHub repo layout with this?
-- Add screenshots or a hosted demo badge?
 
 Let me know if you want to publish it!
