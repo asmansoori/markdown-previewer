@@ -20,7 +20,7 @@ Write Markdown on the left — see the rendered result on the right instantly!
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/markdown-previewer.git
+   git clone https://github.com/asmansoori/markdown-previewer.git
    cd markdown-previewer
 Install dependencies:
 
