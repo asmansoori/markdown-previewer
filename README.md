@@ -22,28 +22,29 @@ Write Markdown on the left — see the rendered result on the right instantly!
    ```bash
    git clone https://github.com/asmansoori/markdown-previewer.git
    cd markdown-previewer
-Install dependencies:
+   ``` 
 
-bash
-Copy
-Edit
-npm install
-Start the app:
+2. Install dependencies:
 
-bash
-Copy
-Edit
-npm start
-Open http://localhost:3000 in your browser.
+   ```bash
+   npm install
+   ```
 
+3. Start the app:
+
+   ```bash
+   npm start
+   Open http://localhost:3000 in your browser.
+   ```
+   
 📂 File Structure
-bash
-Copy
-Edit
-src/
-├── Converter.js    # Main markdown preview component
-├── App.js          # Imports and renders Converter
-└── index.js        # React DOM rendering
+```bash
+   src/
+   ├── Converter.js    
+   ├── App.js          
+   └── index.js 
+````
+       
 📸 Preview
 | Editor (Left) | Preview (Right) |
 | ------------- | --------------- |
